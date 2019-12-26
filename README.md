@@ -6,3 +6,5 @@ React Admin で書籍管理をやってみたかったので作成
 > ./build.docker.sh
 > docker-compose up
 ```
+## トップページ
+http://localhost:3000
